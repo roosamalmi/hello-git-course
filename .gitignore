@@ -1,4 +1,3 @@
-*.pro.user
-build*
-templates/*
-examples/*
+.in
+.out
+.pyc
